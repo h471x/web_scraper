@@ -1,0 +1,10 @@
+# Ignore python caches
+**/__pycache__/
+
+# Ignore build, dist, egg info
+**/build/
+**/dist/
+**/*.egg-info/
+
+# Ignore the scraped data
+**/scraped_data/data.csv
