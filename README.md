@@ -1,7 +1,7 @@
 # PyScrap Tool
 
 <p align="center">
- <img height="150" src="https://raw.githubusercontent.com/hatixntsoa/web_scraper/master/imgs/pyscrap.png"/>
+ <img height="150" src="https://raw.githubusercontent.com/hatixntsoa/web.scraper/master/imgs/pyscrap.png"/>
 </p>
 
 <div align="center">
@@ -48,8 +48,8 @@ For those who prefer to build it themselves:
 1. Clone the repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/hatixntsoa/web_scraper.git
-   cd web_scraper
+   git clone https://github.com/hatixntsoa/web.scraper.git
+   cd web.scraper
    ```
 
 2. Build the package:
